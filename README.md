@@ -3,7 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://aryng.com/new-assets/images/strategic-data-science.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayet17&label=Profile%20views&color=0e75b6&style=flat" alt="ayet17" /> </p>
 
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently learning **IA and DataScience
+**
 
 - 📫 How to reach me **Tounsiayet17@gmail.com**
 
